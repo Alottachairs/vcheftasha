@@ -13,6 +13,8 @@ body{
     background-image: url("images/background1.jpg");
     background-position: center;
     background-size: auto;
+    background-repeat: repeat-y;
+    background-color: darkgreen;
 }
 h3{
     font-style: normal;
@@ -22,30 +24,12 @@ h3{
 }
 h1{
     margin-top: 2.5%;
-}
-=======
-
-
-
-header{
-    border-color: black;
-    border-width: 5px;
-}
-
-body{
-    text-align: center;
-    align-items: center;
-    background-image: url("images/background1.jpg");
-    background-position: center;
-    background-size: auto;
-}
-h3{
-    font-style: normal;
-    color: white;
-    margin-top: 2.5%;
     margin-bottom: 2.5%;
 }
-h1{
-    margin-top: 2.5%;
+hr{
+    border-radius: 5px;
+    margin-bottom: 50px;
 }
->>>>>>> fc3ca6d358185898fc0a15f01b202fc96546bc30
+img{
+    border-radius: 15px;
+}
