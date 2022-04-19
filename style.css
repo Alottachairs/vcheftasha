@@ -1,8 +1,6 @@
 head{
-    
+
 }
-
-
 
 header{
     border-color: black;
@@ -13,25 +11,50 @@ body{
     text-align: center;
     align-items: center;
     background-image: url("images/background1.jpg");
-    background-position: center;
-    background-size: auto;
+    background-position: center;;
     background-repeat: repeat-y;
     background-color: darkgreen;
+    border-radius: 5px;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    max-width: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h3{
     font-style: normal;
     color: white;
     margin-top: 2.5%;
     margin-bottom: 2.5%;
+    text-align: center;
+    align-items: center;
 }
 h1{
     margin-top: 2.5%;
     margin-bottom: 2.5%;
+    text-align: center;
+    align-items: center;
 }
 hr{
     border-radius: 5px;
     margin-bottom: 50px;
+    text-align: center;
+    align-items: center;
 }
 img{
     border-radius: 15px;
+    text-align: center;
+    align-items: center;
 }
+
+
+form{
+    background-color:rgb(105, 155, 56);
+    backface-visibility: 50%;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    
+}
+
