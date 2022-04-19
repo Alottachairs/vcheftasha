@@ -54,9 +54,21 @@ img{
     align-items: center;
 }
 
+p{
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
 
+p{
+    padding-left: 15px;
+}
+p{}
+
+p{
+    padding-right: 15px;
+}
 form{
-    background-color:rgb(105, 155, 56);
+    background-color:rgb(44, 87, 0);
     backface-visibility: 50%;
     border-radius: 30px;
     text-align: center;
