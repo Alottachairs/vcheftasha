@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,29 @@ h3{
 h1{
     margin-top: 2.5%;
 }
+=======
+
+
+
+header{
+    border-color: black;
+    border-width: 5px;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    background-image: url("images/background1.jpg");
+    background-position: center;
+    background-size: auto;
+}
+h3{
+    font-style: normal;
+    color: white;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+h1{
+    margin-top: 2.5%;
+}
+>>>>>>> fc3ca6d358185898fc0a15f01b202fc96546bc30
