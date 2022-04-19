@@ -3,7 +3,7 @@ Personal chef website
 
 This is a basic, and static page that includes 1 webform using formspree
 
-Page link:  home.vcheftasha.tk
+Page link:  <home.vcheftasha.tk>
 
 2nd webpage example is at vcheftasha.com
 
