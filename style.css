@@ -5,6 +5,8 @@ head{
 header{
     border-color: black;
     border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 body{
@@ -17,8 +19,8 @@ body{
     border-radius: 5px;
     margin-top: 2.5%;
     margin-bottom: 2.5%;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
     max-width: 800px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -26,6 +28,8 @@ body{
 div{
     background-color: brown;
     border-radius: 15px;
+    align-items: center;
+    text-align: center;
 }
 
 h3{
