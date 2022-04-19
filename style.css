@@ -22,6 +22,12 @@ body{
     max-width: 800px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+div{
+    background-color: brown;
+    border-radius: 15px;
+}
+
 h3{
     font-style: normal;
     color: white;
