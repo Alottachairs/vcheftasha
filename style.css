@@ -1,36 +1,73 @@
 head{
-
+    align-items: center;
 }
-
+/* Top banner */
 header{
+    background-color: gold;
+    border-radius: 30px;
     border-color: black;
     border-width: 5px;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-body{
     text-align: center;
-    align-items: center;
+    color: black;
+    font-size: 11px;
+
+}
+/* Background image */
+body{
     background-image: url("images/background1.jpg");
-    background-position: center;;
-    background-repeat: repeat-y;
+    background-position: center;
+    background-repeat: repeat;
     background-color: darkgreen;
     border-radius: 5px;
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    margin-left: 12.5%;
-    margin-right: 12.5%;
-    max-width: 800px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-div{
-    background-color: brown;
-    border-radius: 15px;
     align-items: center;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+/* Title and picture */
+.vctTitle{
+    font-size: 45px;
+    color: white;
+    background-color: brown;
+    border-radius: 30px;
+    align-items: center
+}
+.vctTitle h3{
+    padding-top: 10px;
+    padding-bottom: 1px%;
+    align-items: center;
+    margin; 0px;
+}
+.vctTitle h1{
+    padding-top: 10px;
+    text-align: center;
+}
+.vctTitle hr{
+    height: 10px;
+    width: 75%;
+    background-color: gold;
+    border-radius: 15px;
+}
+#profilepic{
+    text-align: center;
+    align-items: center;
+}
+.vctTitle p{
+    color: white;
+    font-size: 25px;
+    text-align: center;    
+}
+
+/* Be cool yo */
+
+hr{
+    width: 75%;
+    height:10px;
+    color: gold;
+    border-radius: 15px;
+}
+
 
 h3{
     font-style: normal;
@@ -40,44 +77,29 @@ h3{
     text-align: center;
     align-items: center;
 }
-h1{
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    text-align: center;
-    align-items: center;
-}
-hr{
-    border-radius: 5px;
-    margin-bottom: 50px;
-    text-align: center;
-    align-items: center;
-}
-img{
+
+.serviceList{
+    color: white;
+    background-color: blueviolet;
     border-radius: 15px;
-    text-align: center;
-    align-items: center;
-    width: 75%;
-}
-
-p{
-    margin-bottom: 15px;
-    padding-bottom: 15px;
-}
-
-p{
     padding-left: 15px;
-}
-p{}
-
-p{
     padding-right: 15px;
+    font-size: 30px;
 }
+
+
 form{
-    background-color:rgb(44, 87, 0);
+    background-image:url("images/background2.jpg");
     backface-visibility: 50%;
     border-radius: 30px;
     text-align: center;
-    align-items: center;
-    
+    align-items: center;  
 }
-
+form h2{
+    text-shadow: 1px 1px 2px pink;
+    font-size: 30px;
+}
+form p{
+    font-style: oblique;
+    font-size: 15px;
+}
