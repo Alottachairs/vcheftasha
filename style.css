@@ -37,16 +37,19 @@ body{
     padding-top: 10px;
     padding-bottom: 1px%;
     align-items: center;
+    text-shadow: 1px 1px 2px pink;
 }
 .vctTitle h1{
     padding-top: 10px;
     text-align: center;
+    text-shadow: 1px 1px 2px pink;
 }
 .vctTitle hr{
     height: 10px;
     width: 75%;
     background-color: gold;
     border-radius: 15px;
+    text-shadow: 1px 1px 2px pink;
 }
 #profilepic{
     text-align: center;
@@ -55,7 +58,10 @@ body{
 .vctTitle p{
     color: white;
     font-size: 25px;
-    text-align: center;    
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    padding-left: 10px;
+    padding-right: 10px; 
 }
 
 /* Be cool yo */
@@ -75,15 +81,17 @@ h3{
     margin-bottom: 2.5%;
     text-align: center;
     align-items: center;
+    text-shadow: 1px 1px 2px pink;
 }
 
 .serviceList{
     color: white;
-    background-color: blueviolet;
+    background-color: rgb(26, 133, 12);
     border-radius: 15px;
     padding-left: 15px;
     padding-right: 15px;
     font-size: 30px;
+    text-shadow: 1px 1px 2px pink;
 }
 
 
@@ -101,4 +109,8 @@ form h2{
 form p{
     font-style: oblique;
     font-size: 15px;
+    text-shadow: 1px 1px 2px pink;
+}
+.gallery{
+    font-size: 30px;
 }
